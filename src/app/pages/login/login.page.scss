@@ -1,0 +1,14 @@
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background:  #89bfa1;
+}
+
+ion-card {
+    --ion-background-color: white;
+}
+ion-button[color="dark"]{
+    text-transform: initial;
+}

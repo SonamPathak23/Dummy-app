@@ -1,0 +1,7 @@
+{
+  "name": "Dummy-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
